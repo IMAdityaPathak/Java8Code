@@ -1,7 +1,3 @@
-https://u8260587.ct.sendgrid.net/ls/click?upn=u001.OrrwBXogtRJMdo-2BFPbuxd1UP9XII9Sb98zYVGB4EESAhCKVh8SoDiHDvRCb6RCclIEg72RfDvynwjoSBf1Pne5krzGdfEcZLDLwRPCqtRi875CIYTGT7UOP4tp0vAXNcsBm-2FKV9rpyh7knB8EEyELD0BLiN4hiRMX4xrkKT7iv-2Bczz2Ta0dkvYPXI3pny52S6sKefyRV4MwXi519tDkE3T3VfH-2BzsV7MEkRYVYi-2Bckkmh4EJkCt3yGbaeGJ9YxfFAet6LKxkUYi9jYxGVEd-2Fr-2BD0P2-2FNREgocZmIMiJwmaZorTocPcP7ncAjwYmVP-2BewXsHDYYD30zXjZ3PE98Vl-2BQ-3D-3D4TDD_zeNFRHEnAPlr1DMOwfUBvmk9vNPRqxOS3YXTxbrkidqyiKx23rwakUNKau9AhVrPqi0VFNHrHV7ZEE3a23SowRPQqTir-2Fa-2FGN03cRQCBy3Lp6XCWnGzV0tsAx3Y0Bmn2jfeaxj0ei5Dxl6HIp6R0EyVLwKHmwy3T6Cs-2BodGXkI17yBw-2BaxasNaYWlUL7sES-2F22I0JZP3fLf8SuE9AnbvUg-3D-3D
-
-
-
 System.out.println("Aditya")
 List<Integer> numbers = List.of(12, 9, 13, 4, 6, 2, 4, 12, 15);
 numbers.stream().reduce(0, (x,y)->x+y)

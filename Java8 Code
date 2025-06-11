@@ -1,3 +1,6 @@
+https://app.labs.talview.com/redirect?c=eos2ZyKCsRMHSt5h43E8pjFjMDYwNWFhZjhlOWE4MmUxYzRlZGJmN2RlMzU3OGZkZjI3MjY2ZjMyMmY0ZWVmYzY2ZjcwNTQ3ZDZmNzQ3ZWNIqL8XAYtNuUwFmi3wwdavrQtsT7aq2HsEAHTeu1MYpL1pehJEAfkAKguB2pvPx0U_
+
+
 System.out.println("Aditya")
 List<Integer> numbers = List.of(12, 9, 13, 4, 6, 2, 4, 12, 15);
 numbers.stream().reduce(0, (x,y)->x+y)
